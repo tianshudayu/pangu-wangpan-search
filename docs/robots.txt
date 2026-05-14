@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tianshudayu.github.io/pangu-wangpan-search/sitemap.xml
